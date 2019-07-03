@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543300940 source:/home/isaac/Dropbox/UCR/II-2018/Computer_Vision/gradients_project/my_node.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1543300940 source:/home/jaguar/Dropbox/Time/Mind/Academic/UCR/Semesters/2018-II/Computer_Vision/gradients_project/my_node.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

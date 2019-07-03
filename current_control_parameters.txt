@@ -1,0 +1,5 @@
+Entrada: input/claire000.bmp
+ancho: 352
+alto: 288
+Umbral: 15
+Salida: output/
